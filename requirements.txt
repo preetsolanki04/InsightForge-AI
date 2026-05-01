@@ -1,0 +1,11 @@
+streamlit
+google-genai
+python-dotenv
+pandas
+numpy
+openpyxl
+matplotlib
+seaborn
+faiss-cpu
+scikit-learn
+plotly
